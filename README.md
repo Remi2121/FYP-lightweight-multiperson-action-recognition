@@ -35,6 +35,15 @@ Lightweight multi-person action recognition & temporal localization using ST-GNN
 
 **Supervisor:** Mr. Sanka Mohottala · **Co-supervisors:** Ms. A. Amarasinghe, Dr. U. Wijenayake
 
+## Reports & Presentations
+
+**CO4002 (Computer Engineering) Department**
+- [Proposal Report](docs/reports/CO-department/CO4002_Proposal_Report.pdf)
+- [Proposal Presentation](docs/reports/CO-department/CO4002_Presentation.pdf)
+
+**EEE Department**
+- [Proposal Report](docs/reports/EEE-department/EEE_Proposal_Report.pdf)
+
 ## Status
 
 🚧 Proposal stage complete — implementation in progress (Oct 2026 – Jun 2027).
